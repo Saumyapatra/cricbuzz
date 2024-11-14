@@ -1,0 +1,23 @@
+header{
+    background-color: green;
+    height: 50px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+ul{
+    display: flex;
+    list-style: none;
+    width: 600px;
+    justify-content: space-between;
+}
+li{
+    color: white;
+    cursor: pointer;
+}
+button{
+    border-radius: 50px;
+    height: 40px;
+    border: color( rgb(251, 250, 250)
+}
